@@ -195,5 +195,3 @@ Still manual / business-side, not something this codebase can verify for you:
       — submission flow and what Intuit's reviewers check.
 - [ ] Budget review time: Intuit's own documentation puts the average technical review
       at ~20 business days, more if issues are found and need remediation.
-#   G L - A n a l y z e r - Q B O  
- 
